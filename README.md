@@ -4,6 +4,20 @@ A simulated healthcare operations portfolio project for denial management, KPI t
 
 This project was designed by Kori Pickle as a healthcare operations and revenue cycle management portfolio asset. It uses simulated data only. No PHI is included.
 
+Live Google Sheets workbook
+
+https://docs.google.com/spreadsheets/d/1sSTeic7uUI0uAW2CMok5hN_BIc4sdKOudZ4RZkdjKjg/edit?usp=sharing
+
+The workbook includes:
+
+- DASHBOARD
+- DENIAL_LOG
+- KPI_SUMMARY
+- QUEUE_VIEW
+- TRUST_LAYER_LOG
+- UPSTREAM_DEFECTS
+- Lists
+
 Project purpose
 
 This dashboard shows how denial management can be analyzed upstream through intake, eligibility, authorization, documentation, coding, billing, and follow-up defects.
@@ -19,24 +33,6 @@ The goal is to demonstrate practical healthcare administration skills in:
 - operational drift detection
 - trust-layer measurement
 - denial prevention
-
-Google Sheets dashboard
-
-Working Google Sheets version:
-
-https://docs.google.com/spreadsheets/d/1sSTeic7uUI0uAW2CMok5hN_BIc4sdKOudZ4RZkdjKjg/edit?usp=drivesdk
-
-The workbook includes:
-
-- DASHBOARD
-- DENIAL_LOG
-- KPI_SUMMARY
-- QUEUE_VIEW
-- TRUST_LAYER_LOG
-- UPSTREAM_DEFECTS
-- Lists
-
-It uses simulated denial data only. No PHI is included.
 
 Repository structure
 
@@ -57,7 +53,7 @@ screenshots/
   .gitkeep
 ```
 
-Dashboard tabs
+Dashboard sections
 
 Overview
 
@@ -124,12 +120,12 @@ All data is simulated for portfolio demonstration. No patient names, dates of bi
 
 Portfolio positioning
 
-This project should be described as a healthcare operations KPI framework and dashboard prototype designed to analyze denial management workflows.
+This project can be described as a healthcare operations KPI framework and dashboard prototype designed to analyze denial management workflows.
 
-Recommended LinkedIn description:
+Recommended LinkedIn description
 
-I built a simulated denial management KPI dashboard to practice healthcare operations analysis, queue prioritization, escalation logic, and workflow trust measurement.
+I built a simulated denial management KPI dashboard for healthcare operations. It tracks revenue at risk, denial aging, queue priority, payer patterns, escalation ownership, upstream defect sources, and workflow trust signals.
 
-This project uses simulated data only. No PHI.
+All data is simulated. No PHI is used.
 
 The dashboard connects denial outcomes back to upstream workflow defects across intake, eligibility, authorization, documentation, coding, billing, and follow-up.
