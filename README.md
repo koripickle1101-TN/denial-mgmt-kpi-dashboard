@@ -20,6 +20,24 @@ The goal is to demonstrate practical healthcare administration skills in:
 - trust-layer measurement
 - denial prevention
 
+Google Sheets dashboard
+
+Working Google Sheets version:
+
+https://docs.google.com/spreadsheets/d/1sSTeic7uUI0uAW2CMok5hN_BIc4sdKOudZ4RZkdjKjg/edit?usp=drivesdk
+
+The workbook includes:
+
+- DASHBOARD
+- DENIAL_LOG
+- KPI_SUMMARY
+- QUEUE_VIEW
+- TRUST_LAYER_LOG
+- UPSTREAM_DEFECTS
+- Lists
+
+It uses simulated denial data only. No PHI is included.
+
 Repository structure
 
 ```text
