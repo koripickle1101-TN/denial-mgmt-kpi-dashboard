@@ -4,6 +4,33 @@ A simulated healthcare operations portfolio project for denial management, KPI t
 
 This project was designed by Kori Pickle as a healthcare operations and revenue cycle management portfolio asset. It uses simulated data only. No PHI is included.
 
+Brand identity
+
+This project uses Kori Pickle’s healthcare operations brand identity:
+
+- Tennessee Orange: #FF8200
+- Smokey Gray: #4B4B4B
+- Black: #0A0A0A
+- White: #FFFFFF
+
+Brand direction:
+
+- Tennessee-rooted healthcare operations strategy
+- clean executive layout
+- dark-mode technical presentation
+- orange emphasis for operational urgency and Tennessee identity
+- white space and structured sections for readability
+- patient-to-professional point of view
+- practical revenue cycle and workflow analysis
+
+Visual identity rules:
+
+- Use black or white backgrounds depending on the asset type.
+- Use Tennessee Orange only for emphasis, headings, dividers, buttons, and key KPI callouts.
+- Use Smokey Gray for secondary text, borders, and structural separation.
+- Keep layouts simple, clean, and operational.
+- Avoid decorative colors that do not support the Tennessee healthcare operations identity.
+
 Live Google Sheets workbook
 
 https://docs.google.com/spreadsheets/d/1sSTeic7uUI0uAW2CMok5hN_BIc4sdKOudZ4RZkdjKjg/edit?usp=sharing
